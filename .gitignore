@@ -1,0 +1,12 @@
+node_modules/
+/db/
+dist/
+test/
+*.log
+*.zip
+*.json
+package-lock.json
+*.lock
+dune_query.sql
+PUMPFUN_CACHE_README.md
+WEBSOCKET_CLEANUP_FIX.md
